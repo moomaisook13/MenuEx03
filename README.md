@@ -4,4 +4,4 @@
 A new Flutter project.
 
 
-<img src="assets/image/menu3.png" width="550" height="550">
+<img src="assets/image/menu3.png" width="550" height="300">
